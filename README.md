@@ -1,1 +1,2 @@
-# emagProject
+# proiectEmag
+testing emag functions
